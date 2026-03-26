@@ -10,7 +10,7 @@ Aqui você encontrará informações sobre mim, meus projetos e formas de contat
 - CSS
 
 ## 🌐 Acesse o projeto
-https://seuusuario.github.io/meu-portfolio/
+https://gabrielb.github.io/meu-portfolio/
 
 ## 👤 Autor
-Seu Nome
+Gabriel Henrique Borges
